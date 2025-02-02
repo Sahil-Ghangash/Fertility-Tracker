@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fertility-Tracker/static/css/main.3f42fa1f.css",
+    "main.js": "/Fertility-Tracker/static/js/main.e779299a.js",
+    "index.html": "/Fertility-Tracker/index.html",
+    "main.3f42fa1f.css.map": "/Fertility-Tracker/static/css/main.3f42fa1f.css.map",
+    "main.e779299a.js.map": "/Fertility-Tracker/static/js/main.e779299a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f42fa1f.css",
+    "static/js/main.e779299a.js"
+  ]
+}
